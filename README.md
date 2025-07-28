@@ -13,6 +13,8 @@ tomographic inversion, using the USGS Bay Area (v8.3.0), CVM-S4.26, and Lin-Thur
 starting models. 6 iterations were performed on a 500m-resolution mesh, down to a minimum Vs 
 of 900 m/s, to generate the final model. This model includes an optional Ely-Jordan GTL.
 
+Jordan, T. H., Callaghan, S. (2018) SCEC Central Coast Seismic Velocity Model,  USGS 2018 San Francisco Bay Region Seismic Velocity Models for Seismic Hazard Assessment Workshop, Oral Presentation, March 18, 2018
+
 ## Installation
 
 This package is intended to be installed as part of the UCVM framework, version 25.7 or higher. 
